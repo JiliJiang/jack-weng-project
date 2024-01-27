@@ -1,4 +1,12 @@
 # Skill Magnet: Full Stack Service app
+
+# Fully PWA enabled
+
+![Screenshot 2024-01-27 113800](https://github.com/JiliJiang/jack-weng-project/assets/73008338/d4385991-7d55-431a-a60b-8e177afd9766)
+
+![Screenshot 2024-01-27 113854](https://github.com/JiliJiang/jack-weng-project/assets/73008338/28967888-d82c-4254-9cb8-6117d7714f18)
+
+
 ![Screenshot 2024-01-26 234029](https://github.com/JiliJiang/jack-weng-project/assets/73008338/9aaa020d-6a32-41b9-8847-b94ff6e999dc)
 
 
