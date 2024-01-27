@@ -1,4 +1,6 @@
 # Skill Magnet: Full Stack Service app
+![Screenshot 2024-01-26 234029](https://github.com/JiliJiang/jack-weng-project/assets/73008338/9aaa020d-6a32-41b9-8847-b94ff6e999dc)
+
 
 ![Logo](./client/public/images/logo-3.png)
 
